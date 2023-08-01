@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from 'react-icons/bs';
 
 const projects = [
 	{
-		name: 'ENSRIG (Woring On it)',
+		name: 'ENSRIG (Working On it)',
 		description:
 			'The ENSRIG (Ethereum Naming System Domain Auction Platform with Real-time Valuation and On-chain Bidding) is a software system aimed at providing a web 3.0-enabled platform for buying, selling, and auctioning ENS (Ethereum Name Service) domains. The system leverages blockchain technology to enable secure and efficient transactions, offering users a user-friendly interface to interact with ENS domains. ENSRIG also incorporates AI-based valuation and appraisal features to provide real-time domain valuations, making it easier for users to invest in ENS domains.',
 		image: '/ensrig.png',
